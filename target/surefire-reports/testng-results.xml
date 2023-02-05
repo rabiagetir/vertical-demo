@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-05T16:23:32 TRT" name="services.sampleTest.sampleAllureReport" finished-at="2023-02-05T16:23:34 TRT" duration-ms="2399">
+  <suite started-at="2023-02-05T17:32:50 TRT" name="services.sampleTest.sampleAllureReport" finished-at="2023-02-05T17:32:54 TRT" duration-ms="3431">
     <groups>
     </groups>
-    <test started-at="2023-02-05T16:23:32 TRT" name="Command line test" finished-at="2023-02-05T16:23:34 TRT" duration-ms="2399">
+    <test started-at="2023-02-05T17:32:50 TRT" name="Command line test" finished-at="2023-02-05T17:32:54 TRT" duration-ms="3431">
       <class name="services.sampleTest.sampleAllureReport">
-        <test-method signature="getVerticals()[pri:0, instance:services.sampleTest.sampleAllureReport@2db7a79b]" started-at="2023-02-05T16:23:32 TRT" name="getVerticals" finished-at="2023-02-05T16:23:34 TRT" duration-ms="2370" status="PASS">
+        <test-method signature="getVerticals()[pri:0, instance:services.sampleTest.sampleAllureReport@c81cdd1]" started-at="2023-02-05T17:32:50 TRT" name="getVerticals" finished-at="2023-02-05T17:32:54 TRT" duration-ms="3394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getVerticals -->
