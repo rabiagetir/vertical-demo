@@ -1,0 +1,4 @@
+models/response/VerticalResponse.class
+models/request/VerticalMetaRequest.class
+models/request/VerticalRequest.class
+models/response/VerticalMetaResponse.class
