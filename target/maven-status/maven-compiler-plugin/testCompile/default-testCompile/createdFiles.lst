@@ -1,0 +1,4 @@
+services/sampleTest/sampleDataProvider.class
+services/sampleTest/sampleAllureReport.class
+services/catalogVerticals/GetVertical.class
+services/sampleTest/SampleTest.class
